@@ -1,0 +1,2 @@
+rootProject.name='Omdb'
+include ':app'

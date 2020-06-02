@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Omdb</string>
+
+    <string name="movie_list">Movie List</string>
+    <string name="search_hint">Search…</string>
+
+    <string name="movie_details">Movie Details</string>
+    <string name="rated_text">Rated</string>
+    <string name="runtime_text">Runtime</string>
+    <string name="released_date_text">Released Date</string>
+    <string name="synopsis_text">Synopsis</string>
+    <string name="meta_score_text">Meta Score</string>
+    <string name="imdb_rating_text">IMDB Rating</string>
+    <string name="imdb_votes_text">IMDB Votes</string>
+    <string name="director_text">Director</string>
+    <string name="writer_text">Writer</string>
+    <string name="actors_text">Actors</string>
+    <string name="language_text">Language</string>
+    <string name="country_text">Country</string>
+    <string name="genre_text">Genre</string>
+    <string name="awards_text">Awards</string>
+    <string name="rating_text">%s ⭐</string>
+    <string name="up_meta_score_text">▲</string>
+    <string name="down_meta_score_text">▼</string>
+
+    <string name="searching">Searching…</string>
+    <string name="no_data_found">No data found</string>
+    <string name="network_error">Network Error</string>
+    <string name="no_network_error_message">No internet connection available. Please try again later.</string>
+    <string name="error_message">Error occurred while retrieving data</string>
+</resources>
